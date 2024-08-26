@@ -1,0 +1,22 @@
+{
+	"description": "Fiery",
+	"supported_items": [
+		"leather_boots",
+		"iron_boots",
+		"golden_boots",
+		"netherite_boots",
+		"diamond_boots"
+	],
+	"slots": ["any"],
+	"weight": 2,
+	"anvil_cost": 5,
+	"min_cost": {
+		"base": 1,
+		"per_level_above_first": 0
+	},
+	"max_cost": {
+		"base": 10,
+		"per_level_above_first": 0
+	},
+	"max_level": 1
+}

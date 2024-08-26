@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:item",
+    "name": "minecraft:enchanted_book",
+    "functions": [
+      {
+        "function": "minecraft:set_nbt",
+        "tag": "{StoredEnchantments:[{id:\"rowonlava:fiery\",lvl:1}]}"
+      }
+    ],
+    "weight": 100,   
+    "quality": 1
+  }
+  
